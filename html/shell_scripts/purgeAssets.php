@@ -9,7 +9,7 @@
 
 $servername = "localhost";
 $username = "pj_images";
-$password = "Ma5t3r00ts007#";
+$password = "";
 $dbname = "pj-images";
 
 // Create connection
