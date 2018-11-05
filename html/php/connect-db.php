@@ -12,7 +12,7 @@ Allows PHP to connect to your database
 
 $server = 'localhost';
 $user = 'pj_images';
-$pass = 'Ma5t3r00ts007#';
+$pass = '';
 $db = 'pj-images';
 
 // Connect to Database
