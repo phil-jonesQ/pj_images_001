@@ -9,8 +9,8 @@
 
 $servername = "localhost";
 $username = "pj_images";
-$password = "Ma5t3r00ts007#";
-$dbname = "pj-images";
+$password = "";
+dbname = "pj-images";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
