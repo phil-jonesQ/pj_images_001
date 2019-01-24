@@ -1,0 +1,25 @@
+[19-Feb-2017 21:16:41 UTC] PHP Notice:  Undefined variable: HOST in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:16:41 UTC] PHP Notice:  Undefined variable: USER in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:16:41 UTC] PHP Notice:  Undefined variable: PASSWORD in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:16:41 UTC] PHP Notice:  Undefined variable: DATABASE in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:16:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'alfa'@'localhost' (using password: NO) in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:17:54 UTC] PHP Notice:  Undefined variable: HOST in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:17:54 UTC] PHP Notice:  Undefined variable: USER in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:17:54 UTC] PHP Notice:  Undefined variable: PASSWORD in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:17:54 UTC] PHP Notice:  Undefined variable: DATABASE in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:17:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'alfa'@'localhost' (using password: NO) in /home/alfa/public_html/assets/readData.php on line 5
+[19-Feb-2017 21:18:29 UTC] PHP Notice:  Undefined variable: HOST in /home/alfa/public_html/assets/readData.php on line 3
+[19-Feb-2017 21:20:30 UTC] PHP Notice:  Undefined variable: conn in /home/alfa/public_html/assets/readData.php on line 6
+[19-Feb-2017 21:24:25 UTC] PHP Notice:  Undefined variable: conn in /home/alfa/public_html/assets/readData.php on line 6
+[19-Feb-2017 21:27:40 UTC] PHP Parse error:  syntax error, unexpected '" "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:29:54 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:31:22 UTC] PHP Parse error:  syntax error, unexpected '" "' (T_CONSTANT_ENCAPSED_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:31:35 UTC] PHP Parse error:  syntax error, unexpected '"  .  "' (T_CONSTANT_ENCAPSED_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:31:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:33:26 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:34:34 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:35:30 UTC] PHP Parse error:  syntax error, unexpected '"  "' (T_CONSTANT_ENCAPSED_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:36:55 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:37:26 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:38:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alfa/public_html/assets/readData.php on line 16
+[19-Feb-2017 21:39:20 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/alfa/public_html/assets/readData.php on line 16
